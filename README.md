@@ -21,7 +21,7 @@ Case Studies
 **Business Context:** Supporting prioritization decisions such as retention risk, demand volatility, or operational focus areas.  
 📄 [View Case Study](03_Predictive_Modeling.md)
 
-#4. Data Visualization for Business Decision-Making  
+4. Data Visualization for Business Decision-Making  
 **Focus:** Dashboard design, clarity, insight communication  
 **Business Context:** Translating complex data into clear, actionable narratives for business leaders.  
 📄 [View Case Study](04_Data_Visualization.md)
